@@ -26,7 +26,7 @@
 
 The app is finally installed on your Android mobile device !!
 
-To directly download the apk [Click Here](https://github.com/vishalvs9728/Converter_android_app/APK/converter.apk)
+To directly download the apk [Click Here](https://github.com/vishalvs9728/Converter_android_app/APK/Converter.apk)
 
 
  # Screenshots:
