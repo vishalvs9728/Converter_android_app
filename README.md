@@ -1,4 +1,4 @@
-# <img alt="App image" src="Screenshots/joblogo.jpg" width="5%"> Converter
+# <img alt="App image" src="app/src/main/res/drawable/convo.jpg" width="5%"> Converter
 
  # Screenshots:
 
