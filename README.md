@@ -53,3 +53,24 @@ To directly download the apk [Click Here](https://github.com/vishalvs9728/Conver
 <img alt="App image" src="Screenshots/img9.png " width="30%" hspace="10">
 
 </div>
+
+
+## Resources, Activities and Manifest for the Application
+
+For Java File [Click here]( https://github.com/vishalvs9728/Converter_android_app/tree/master/app/src/main/java/com/example/admin/converter)
+
+* [For MainPage/Splash Screen](https://github.com/vishalvs9728/Converter_android_app/blob/master/app/src/main/java/com/example/admin/converter/MainActivity.java)
+
+* [Option Page](https://github.com/vishalvs9728/Converter_android_app/blob/master/app/src/main/java/com/example/admin/converter/Main2Activity.java)
+
+* [CurrencyConverter page](https://github.com/vishalvs9728/Converter_android_app/blob/master/app/src/main/java/com/example/admin/converter/Currency.java)
+
+* [TemperatureConverter page](https://github.com/vishalvs9728/Converter_android_app/blob/master/app/src/main/java/com/example/admin/converter/Temp.java)
+
+Resource files are stored in `res` package
+
+* [res](https://github.com/vishalvs9728/Converter_android_app/tree/master/app/src/main/res)
+
+Android manifest file for the project:
+
+* [AndroidManifest.xml]( https://github.com/vishalvs9728/Converter_android_app/blob/master/app/src/main/AndroidManifest.xml)
